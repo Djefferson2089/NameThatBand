@@ -58,10 +58,10 @@ You’ll be greeted with an ASCII art banner and a couple questions to answer.
       |_| \_|\__,_|_| |_| |_|\___|_|  |_| |_|\__,_|\__|____/ \__,_|_| |_|\__,_|  
                                                                             
 
-                        NameThatBand v1.0
-         Generate legendary band names in seconds!
+                             NameThatBand v1.0
+                 Generate legendary band names in seconds!
 
-        https://github.com/yourusername/namethatband
+                https://github.com/yourusername/namethatband
 
   Your band name is: Crimson Eclipse
 ```
