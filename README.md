@@ -50,18 +50,18 @@ You’ll be greeted with an ASCII art banner and a couple questions to answer.
 # Example Output
 
 ```
-       _   _                   _______ _           _   ____                  _ 
-      | \ | |                 |__   __| |         | | |  _ \                | |
-      |  \| | __ _ _ __ ___   ___| |  | |__   __ _| |_| |_) | __ _ _ __   __| |
-      | . ` |/ _` | '_ ` _ \ / _ \ |  | '_ \ / _` | __|  _ < / _` | '_ \ / _` |
-      | |\  | (_| | | | | | |  __/ |  | | | | (_| | |_| |_) | (_| | | | | (_| |
-      |_| \_|\__,_|_| |_| |_|\___|_|  |_| |_|\__,_|\__|____/ \__,_|_| |_|\__,_|  
+ _   _                   _______ _           _   ____                  _ 
+| \ | |                 |__   __| |         | | |  _ \                | |
+|  \| | __ _ _ __ ___   ___| |  | |__   __ _| |_| |_) | __ _ _ __   __| |
+| . ` |/ _` | '_ ` _ \ / _ \ |  | '_ \ / _` | __|  _ < / _` | '_ \ / _` |
+| |\  | (_| | | | | | |  __/ |  | | | | (_| | |_| |_) | (_| | | | | (_| |
+|_| \_|\__,_|_| |_| |_|\___|_|  |_| |_|\__,_|\__|____/ \__,_|_| |_|\__,_|  
                                                                             
 
-                             NameThatBand v1.0
-                 Generate legendary band names in seconds!
+NameThatBand v1.0
+Generate legendary band names in seconds!
+https://github.com/yourusername/namethatband
 
-                https://github.com/yourusername/namethatband
+Your band name is: Crimson Eclipse
 
-  Your band name is: Crimson Eclipse
 ```
